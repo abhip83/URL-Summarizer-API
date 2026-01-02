@@ -42,6 +42,7 @@ FastAPI Response (JSON)
 ---
 
 ## 📂 Project Structure
+.
 ├── crawler_simple.py # Web crawler logic
 ├── summarizer_simple.py # OpenAI-based summarizer
 ├── orchestrator_fastapi.py # FastAPI orchestration layer
