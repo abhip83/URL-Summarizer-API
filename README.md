@@ -14,9 +14,13 @@ This project demonstrates practical skills in **Web Crawling, NLP, Generative AI
 
 .
 ├── crawler_simple.py # Web crawler logic
+
 ├── summarizer_simple.py # OpenAI-based summarizer
+
 ├── orchestrator_fastapi.py # FastAPI orchestration layer
-├── .env # API keys (not committed)
+
+├── .env # API keys
+
 └── README.md
 ---
 
