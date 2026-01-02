@@ -10,23 +10,14 @@ This project demonstrates practical skills in **Web Crawling, NLP, Generative AI
 
 ---
 
-## 🚀 Project Architecture
+## 📂 Project Structure
 
-User URL
-│
-▼
-Crawler (crawl4ai)
-│
-▼
-Clean Markdown Text
-│
-▼
-LLM Summarizer (OpenAI)
-│
-▼
-FastAPI Response (JSON)
-
-
+.
+├── crawler_simple.py # Web crawler logic
+├── summarizer_simple.py # OpenAI-based summarizer
+├── orchestrator_fastapi.py # FastAPI orchestration layer
+├── .env # API keys (not committed)
+└── README.md
 ---
 
 ## 🧠 Key Features
